@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'face-off' target in the 'face-off' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
